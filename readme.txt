@@ -1,5 +1,5 @@
 减少特征：
-1. build->lewis_build.py 运行后会随机生成加载器代码
+1. build->build.py 运行后会随机生成加载器代码
 2. upx 压缩
 
 使用：
